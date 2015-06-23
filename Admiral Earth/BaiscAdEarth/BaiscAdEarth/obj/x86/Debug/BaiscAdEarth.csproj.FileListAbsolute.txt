@@ -1,0 +1,354 @@
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\node.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\projectile.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameScreen.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\titlescreen.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Fonts\Pericles.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.exe
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.exe
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\node.xnb
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\projectile.xnb
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameScreen.xnb
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\titlescreen.xnb
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Fonts\Pericles.xnb
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.exe
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.exe
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.exe
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\node.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\projectile.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameScreen.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\titlescreen.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Fonts\Pericles.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.exe
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.exe
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.exe
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\node.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\projectile.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameScreen.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\titlescreen.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Fonts\Pericles.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\background.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\player.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\node.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\projectile.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameScreen.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\titlescreen.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Fonts\Pericles.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.exe
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.pdb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.exe
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.pdb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\OButton.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\DButton.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\RButton.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\OButton.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\DButton.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\RButton.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sound\explosion.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sound\pew.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sound\upgrade.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\OButton.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\DButton.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\RButton.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sound\explosion.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sound\pew.xnb
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sound\upgrade.xnb
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Shield.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Shield.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\pew.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\upgrade.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\OButton.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\DButton.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\RButton.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Shield.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\pew.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\upgrade.xnb
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\trail.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\background.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\player.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\node.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\projectile.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameScreen.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\titlescreen.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\OButton.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\DButton.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\RButton.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Shield.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\trail.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Fonts\Pericles.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\pew.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\upgrade.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.exe
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.pdb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.exe
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\trail.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.exe
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\node.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\projectile.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameScreen.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\titlescreen.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\OButton.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\DButton.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\RButton.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Shield.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\trail.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Fonts\Pericles.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\pew.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\upgrade.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.exe
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sound\explosion.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sound\pew.xnb
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sound\upgrade.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\flak.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\background.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\player.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\node.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\projectile.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameScreen.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\titlescreen.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\OButton.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\DButton.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\RButton.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Shield.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\trail.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Fonts\Pericles.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\pew.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\upgrade.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\flak.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.exe
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.pdb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.exe
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.pdb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Laser.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Laser.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Laser.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\flak.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\ShieldTrans.xnb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\ShieldTrans.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\background.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\player.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\node.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\projectile.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameScreen.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\OButton.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\DButton.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\RButton.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\trail.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Laser.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Shield.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\ShieldTrans.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\TitleScreen.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Fonts\Pericles.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\pew.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\upgrade.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\flak.xnb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.exe
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.pdb
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.exe
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\smoketrail.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\background.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\player.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\node.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\projectile.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameScreen.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\OButton.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\DButton.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\RButton.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\trail.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Laser.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Shield.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\ShieldTrans.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\TitleScreen.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\smoketrail.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Fonts\Pericles.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\pew.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\upgrade.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\flak.xnb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.exe
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.pdb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.exe
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.pdb
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemyexplosion.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\background.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\player.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\node.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\projectile.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameScreen.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\OButton.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\DButton.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\RButton.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\trail.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Laser.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Shield.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\ShieldTrans.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\TitleScreen.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\smoketrail.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemyexplosion.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Fonts\Pericles.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\pew.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\upgrade.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\flak.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.exe
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.pdb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.exe
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.pdb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\splitterenemy.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\smoketrail.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemyexplosion.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\splitterenemy.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameHUD.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameHUD.xnb
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\curvingenemy.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\curvingenemy.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\Gideon Wrath Part I.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\Gideon Wrath Part I.wma
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\background.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\GameHUD.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\node.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\attackIcon.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\mojoIcon.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\shieldIcon.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\Monkey.xnb
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\blackbackground.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\ShieldTrans.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\smoketrail.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemyexplosion.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\splitterenemy.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameHUD.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\curvingenemy.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\background.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\GameHUD.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\node.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\attackIcon.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\mojoIcon.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\shieldIcon.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\Monkey.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\blackbackground.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\Gideon Wrath Part I.xnb
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\Gideon Wrath Part I.wma
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.exe
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\node.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\projectile.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameScreen.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\OButton.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\DButton.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\RButton.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\trail.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Laser.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Shield.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\ShieldTrans.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\TitleScreen.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\smoketrail.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemyexplosion.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\splitterenemy.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameHUD.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\curvingenemy.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\background.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\GameHUD.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\node.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\attackIcon.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\mojoIcon.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\shieldIcon.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\Monkey.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\blackbackground.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Fonts\Pericles.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\pew.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\upgrade.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\flak.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\Gideon Wrath Part I.xnb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\Gideon Wrath Part I.wma
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.exe
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\BaiscAdEarth.pdb
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

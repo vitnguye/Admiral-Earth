@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\cursor.png</Source>
+      <Name>Images\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\cursor.xnb</Output>
+      <Time>2011-03-15T22:37:01.390625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\background.png</Source>
+      <Name>Images\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\background.xnb</Output>
+      <Time>2011-03-15T22:37:01.5-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\explosion.png</Source>
+      <Name>Images\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\explosion.xnb</Output>
+      <Time>2011-03-15T22:37:01.53125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\player.png</Source>
+      <Name>Images\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\player.xnb</Output>
+      <Time>2011-03-15T22:37:01.109375-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\enemy.png</Source>
+      <Name>Images\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemy.xnb</Output>
+      <Time>2011-03-15T22:37:01.34375-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\node.png</Source>
+      <Name>Images\node</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\node.xnb</Output>
+      <Time>2011-03-15T22:37:01.59375-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\projectile.png</Source>
+      <Name>Images\projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\projectile.xnb</Output>
+      <Time>2011-03-15T22:37:01.140625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\GameScreen.png</Source>
+      <Name>Images\GameScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameScreen.xnb</Output>
+      <Time>2011-03-15T22:37:01.265625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\OButton.bmp</Source>
+      <Name>Images\OButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\OButton.xnb</Output>
+      <Time>2011-03-15T22:37:01.578125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\DButton.bmp</Source>
+      <Name>Images\DButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\DButton.xnb</Output>
+      <Time>2011-03-15T22:37:01.28125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RButton.bmp</Source>
+      <Name>Images\RButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\RButton.xnb</Output>
+      <Time>2011-03-15T22:37:01.609375-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\trail.png</Source>
+      <Name>Images\trail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\trail.xnb</Output>
+      <Time>2011-03-15T22:37:01.328125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Laser.bmp</Source>
+      <Name>Images\Laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Laser.xnb</Output>
+      <Time>2011-03-15T22:37:01.125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Shield.png</Source>
+      <Name>Images\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\Shield.xnb</Output>
+      <Time>2011-03-15T22:37:01.265625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ShieldTrans.png</Source>
+      <Name>Images\ShieldTrans</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\ShieldTrans.xnb</Output>
+      <Time>2011-03-15T22:37:01.515625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TitleScreen.jpg</Source>
+      <Name>Images\TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\TitleScreen.xnb</Output>
+      <Time>2011-03-15T22:37:01.40625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\smoketrail.png</Source>
+      <Name>Images\smoketrail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\smoketrail.xnb</Output>
+      <Time>2011-03-15T22:37:01.3125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\enemyexplosion.png</Source>
+      <Name>Images\enemyexplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\enemyexplosion.xnb</Output>
+      <Time>2011-03-15T22:37:01.4375-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\splitterenemy.png</Source>
+      <Name>Images\splitterenemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\splitterenemy.xnb</Output>
+      <Time>2011-03-15T22:37:01.203125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\GameHUD.png</Source>
+      <Name>Images\GameHUD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\GameHUD.xnb</Output>
+      <Time>2011-03-15T22:37:01.296875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\curvingenemy.png</Source>
+      <Name>Images\curvingenemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\curvingenemy.xnb</Output>
+      <Time>2011-03-15T22:37:01.328125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8bit\background.png</Source>
+      <Name>8bit\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\background.xnb</Output>
+      <Time>2011-03-16T09:42:36.8125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8bit\GameHUD.png</Source>
+      <Name>8bit\GameHUD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\GameHUD.xnb</Output>
+      <Time>2011-03-15T22:37:02.5625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8bit\node.png</Source>
+      <Name>8bit\node</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\node.xnb</Output>
+      <Time>2011-03-15T22:37:02.5-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\attackIcon.png</Source>
+      <Name>Images\attackIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\attackIcon.xnb</Output>
+      <Time>2011-03-15T22:37:01.5-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\mojoIcon.png</Source>
+      <Name>Images\mojoIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\mojoIcon.xnb</Output>
+      <Time>2011-03-16T09:42:37.1875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\shieldIcon.png</Source>
+      <Name>Images\shieldIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Images\shieldIcon.xnb</Output>
+      <Time>2011-03-16T09:42:37.21875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8bit\Monkey.png</Source>
+      <Name>8bit\Monkey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\Monkey.xnb</Output>
+      <Time>2011-03-16T09:42:36.78125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8bit\blackbackground.png</Source>
+      <Name>8bit\blackbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\8bit\blackbackground.xnb</Output>
+      <Time>2011-03-16T09:42:36.796875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Pericles.spritefont</Source>
+      <Name>Fonts\Pericles</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Fonts\Pericles.xnb</Output>
+      <Time>2011-03-15T22:37:04.1875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\explosion.wav</Source>
+      <Name>Sounds\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\explosion.xnb</Output>
+      <Time>2011-03-15T22:37:44.171875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\pew.wav</Source>
+      <Name>Sounds\pew</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\pew.xnb</Output>
+      <Time>2011-03-15T22:37:44.09375-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\upgrade.wav</Source>
+      <Name>Sounds\upgrade</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\upgrade.xnb</Output>
+      <Time>2011-03-15T22:37:43.953125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\flak.wav</Source>
+      <Name>Sounds\flak</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\flak.xnb</Output>
+      <Time>2011-03-15T22:37:44.09375-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\13-Gideon Wrath Part I.mp3</Source>
+      <Name>Sounds\Gideon Wrath Part I</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\Gideon Wrath Part I.xnb</Output>
+      <Extra>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\Sounds\Gideon Wrath Part I.wma</Extra>
+      <Time>2011-03-15T22:37:44.15625-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarthContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarth\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-01-12T14:46:14.65625-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

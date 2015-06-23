@@ -1,0 +1,13 @@
+C:\Users\Chase\Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chase\Desktop\AdmiralEarth\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\CMPS 20\newearth\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Admiral Earth\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Admiral\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\theAdmiral\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\CMPS 20\newnewearth\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\admiralearth\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Admial\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chase\My Documents\Visual Studio 2010\Projects\AdmiralEarth\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Admiralthe\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\CMPS 20\bleh\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Class Stuff\Admiral Earth\BaiscAdEarth\BaiscAdEarthContent\obj\x86\Debug\ResolveAssemblyReference.cache
